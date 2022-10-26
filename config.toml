@@ -1,0 +1,16 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'SLH Blog'
+theme = "holy"
+
+[menu]
+[[menu.main]]
+  identifier = 'group'
+  name = 'Group'
+  url = 'https://www.roblox.com/groups/13498879/Sapphire-Luxury-Hotels'
+  weight = 1
+[[menu.main]]
+  identifier = 'discord'
+  name = 'Discord'
+  url = 'https://discord.gg/mqbTKx9mAA'
+  weight = 2
